@@ -1,5 +1,7 @@
 body {
     font-family: "Raleway", "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
 }
 a {
     text-decoration: none;
@@ -36,8 +38,6 @@ button {
 }
 
 .nav-list {
-        width: 261px;
-        height: 24px;
 }
 
 .nav-item {

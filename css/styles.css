@@ -49,22 +49,10 @@ button {
     color: #2e2f42;
 }
 
-.nav-item-link-studio:hover,
-.nav-item-studio:active,
-.nav-item-studio:focus {
+.nav-item-link:hover,
+.nav-item-link:active,
+.nav-item-link:focus {
     color: #404bbf;
-}
-
-.nav-item-link-studio {
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-
-.nav-item-link:hover {
-    color: #404bbf
 }
 
 .nav-item-link {
@@ -75,9 +63,6 @@ button {
     color: #2e2f42;
 }
 
-.nav-item-link:hover {
-    color: #404BBF;
-}
 .address-page {
     font-style: normal;
 }
@@ -172,7 +157,7 @@ button {
 }
 
 .ourteam-list {
-background-color: #FFFFFF
+    background-color: #FFFFFF;
 }
 
 .ourteam-list-li {
